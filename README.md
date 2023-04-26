@@ -1,6 +1,6 @@
-Guile
+Harbour
 ======
-Trying to complete 125 projects from in Guile
+Trying to complete 125 projects from in Harbour
 
 Numbers
 ---------
